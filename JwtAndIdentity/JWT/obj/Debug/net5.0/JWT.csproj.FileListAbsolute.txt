@@ -1,0 +1,7 @@
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.csproj.AssemblyReference.cache
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfoInputs.cache
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.AssemblyInfo.cs
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.csproj.CoreCompileInputs.cache
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cs
+F:\ESLAM\Software\Courses\JWT && Identity\JWT\JWT\obj\Debug\net5.0\JWT.MvcApplicationPartsAssemblyInfo.cache
